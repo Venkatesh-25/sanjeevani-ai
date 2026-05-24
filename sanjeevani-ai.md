@@ -56,7 +56,7 @@ Sanjeevani AI is an innovation showcase and engineering prototype. It is not a c
 ### Images
 
 <p align="center">
-  <img src="cover-dashboard.png" width="800"><br/>
+  <img src="cover-dashboard.jpg" width="800"><br/>
   <i>Predictive Emergency Intelligence Command Center showing live risk, incident story, confidence, Telegram readiness, and response status.</i>
 </p>
 
