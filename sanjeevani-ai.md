@@ -58,47 +58,47 @@ Sanjeevani AI is an engineering prototype and innovation showcase project. It is
 ### Images
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/cover-dashboard.png" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/cover-dashboard.png" width="800"><br/>
   <i>Real-time emergency intelligence command center showing unified risk, incident story, Telegram readiness, sensor confidence, and response status.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/sensor-fusion-dashboard.png" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/sensor-fusion-dashboard.png" width="800"><br/>
   <i>Live MYOSA sensor fusion dashboard combining environment, motion, posture, gesture, fall signature, and risk stream.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/myosa-hardware-stack.jpg" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/myosa-hardware-stack.jpg" width="800"><br/>
   <i>Compact MYOSA hardware stack with live LED indicator, showing the physical embedded setup used for the emergency intelligence stream.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/myosa-hardware-oled.jpg" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/myosa-hardware-oled.jpg" width="800"><br/>
   <i>MYOSA Mini IoT hardware running Sanjeevani AI with OLED status display and local LED response.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/myosa-hardware-angle.jpg" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/myosa-hardware-angle.jpg" width="800"><br/>
   <i>Physical sensing unit showing live monitoring, local status output, and embedded response indicators.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/decision-matrix.png" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/decision-matrix.png" width="800"><br/>
   <i>Explainable decision matrix showing how environment, motion, manual distress, and fusion confidence influence the final risk state.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/environment-graph.png" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/environment-graph.png" width="800"><br/>
   <i>Real-time environment stream combining temperature, humidity, and air-quality context.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/motion-physiology-graph.png" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/motion-physiology-graph.png" width="800"><br/>
   <i>Motion physiology stream tracking movement, tilt, and pressure-related context for emergency interpretation.</i>
 </p>
 
 <p align="center">
-  <img src="/assets/images/sanjeevani_ai/telegram-escalation.jpg" width="800"><br/>
+  <img src="/assets/images/Sanjeevani_AI/telegram-escalation.jpg" width="800"><br/>
   <i>Telegram command bot enabling remote status checks, latest fused packet review, emergency history, scenario control, and incident resolution.</i>
 </p>
 
